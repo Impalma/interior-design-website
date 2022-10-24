@@ -121,47 +121,6 @@ body {
     transform: translateX(0%);
 }
             
-/*slider*/
-/*.slider {
-    width: 100%;
-    margin: auto;
-    border: 5px solid white;
-    position: relative;
-}
-.slider-items {
-    display: flex;
-    width: 100%;
-    height: 830px;
-}
-#prev-btn {
-    position: absolute;
-    top: 415px;
-    z-index: 10;
-    left: 5%;
-    font-size: 40px;
-    color: white;
-    background-color: rgba(255, 255, 255, 0);
-    border: none;
-    border-radius: 30%;
-    opacity: 0.9;
-    cursor: pointer;
-}
-#next-btn {
-    position: absolute;
-    top: 415px;
-    z-index: 10;
-    right: 5%;
-    font-size: 40px;
-    color: white;
-    background-color: rgba(255, 255, 255, 0);
-    border: none;
-    border-radius: 30%;
-    opacity: 0.9;
-    cursor: pointer;
-}
-*/
-
-/*slider&slider-caption*/
 
 .slider-caption p {
     margin: 200px 0 100px 300px; 
