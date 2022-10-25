@@ -7,10 +7,10 @@ A responsive website with a simple layout created using basic html and css eleme
 
 ## Used
 
-- responsive menu with burger menu animation
+- responsive menu with burger menu .js animation
 - slider as css @keyframes animation 
 - font awesome icons
-- google maps localiation
+- google maps location
 
 ### Burger menu
 
