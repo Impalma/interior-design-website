@@ -1,4 +1,6 @@
 # Website for interior designer
+![](https://img.shields.io/badge/-html-blue?style=for-the-badge) ![](https://img.shields.io/badge/-css-blue?style=for-the-badge) ![](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge)
+
 A responsive website with a simple layout created using basic html and css elements. Burger menu element created in JavaScript.
 
 ## 
