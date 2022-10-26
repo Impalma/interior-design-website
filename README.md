@@ -17,18 +17,18 @@ A responsive website with a simple layout created using basic html and css eleme
 ### Burger menu
 
 - .html part of burger menu element
-![burger-menu html](https://user-images.githubusercontent.com/62899618/197885205-dbbba808-9dbf-478c-a4a7-f26f48bf2705.png)
+![burger-menu html](https://user-images.githubusercontent.com/62899618/198119359-ea80b47b-9afa-4afa-b88a-83f829b38ba5.png)
 
 - .css part of burger menu element
-![burger-menu css (1)](https://user-images.githubusercontent.com/62899618/197885598-4eeb4540-3ac5-4139-9da8-61f943278be0.png)
+![burger-menu css](https://user-images.githubusercontent.com/62899618/198119445-530ed45a-d7ef-49df-9ec5-2f54f2219e9d.png)
 
 - .js part of burger menu element
-![burger-menu js](https://user-images.githubusercontent.com/62899618/197885510-1e2ff53b-306f-4b85-b183-dd54fa64d69d.png)
+![burger-menu js](https://user-images.githubusercontent.com/62899618/198119506-a8116a56-7dc5-4496-a68d-2438a2cde362.png)
 
 ### Slider 
 
 - .html part of slider element
-![slider html](https://user-images.githubusercontent.com/62899618/197885886-3d649cbb-9ae6-45d1-9933-f31bac39fda7.png)
+![slider html](https://user-images.githubusercontent.com/62899618/198119630-fd01ff18-df49-44a6-bbcb-095361136663.png)
 
 - .css part of slider element 
-![slider css](https://user-images.githubusercontent.com/62899618/197885948-680f5c07-836d-475b-af8d-a6c9a091eb5d.png)
+![slider css](https://user-images.githubusercontent.com/62899618/198119706-5a806b04-89ba-436d-8c36-962bca64e063.png)
