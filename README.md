@@ -32,3 +32,6 @@ A responsive website with a simple layout created using basic html and css eleme
 
 - .css part of slider element 
 ![slider css](https://user-images.githubusercontent.com/62899618/198119706-5a806b04-89ba-436d-8c36-962bca64e063.png)
+
+###
+If you want to check out click on the link :arrow_right: https://impalma.github.io/interior-design-website/
